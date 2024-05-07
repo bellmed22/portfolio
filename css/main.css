@@ -926,7 +926,7 @@ body.dark {
   }
 }
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
   body { 
    background-color: #232736;
    color: #d4c0b7;}
@@ -944,4 +944,4 @@ body.dark {
    h5 {
      color:#8989a7;
    }
-  }
+  }*/
