@@ -6,17 +6,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Cantarell");
 
 
-
-
-/* 
-* {
-  outline: solid 1px red;
-}
-*/
-
-
 /* Configuraciones Básicas
 ================================ */
+:root {
+  color-scheme: light;
+}
+
 html {
   scroll-behavior: smooth;
   font-size: calc(15px + vw);
