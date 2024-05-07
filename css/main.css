@@ -926,22 +926,3 @@ body.dark {
   }
 }
 
-/*@media (prefers-color-scheme: dark) {
-  body { 
-   background-color: #232736;
-   color: #d4c0b7;}
- 
-   img {
-     opacity: .75;
-     transition: opacity .5s ease-in-out;
-   }
-   img:hover {
-     opacity: 1;
-   }
-   .hola,
-   h1,
-   h4,
-   h5 {
-     color:#8989a7;
-   }
-  }*/
